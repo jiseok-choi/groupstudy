@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077837240244",
+    "firebase_url": "https://groupstudyapp-28a8c.firebaseio.com",
+    "project_id": "groupstudyapp-28a8c",
+    "storage_bucket": "groupstudyapp-28a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077837240244:android:3ed5fdf8582a08b6",
+        "android_client_info": {
+          "package_name": "com.example.mytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077837240244-dirkr2ije2h9c9fsa3mrfb42jb91v3va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytest",
+            "certificate_hash": "5895ebb310b42f86301dee331bae6a75a7740db7"
+          }
+        },
+        {
+          "client_id": "1077837240244-20o18cd6f8da1636cv15a72p3jji0mqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChg2o_ZrGF0R4eY26kQsCODL1DTmFiGlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077837240244-20o18cd6f8da1636cv15a72p3jji0mqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/messageItem_linearlayout_main"
+    >
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/talkingme_time"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="right"-->
+        <!--android:layout_weight="1"-->
+        <!--android:text="" />-->
+
+    <TextView
+        android:id="@+id/talkingme_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f7e600"
+        android:textSize="30dp"
+        android:gravity="right"
+        android:text="TextView" />
+</LinearLayout>
